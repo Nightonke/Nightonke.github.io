@@ -1808,6 +1808,10 @@
 			text-transform: uppercase;
 		}
 
+		h1.totalTitle, h2.totalTitle, h3.totalTitle, h4.totalTitle, h5.totalTitle, h6.totalTitle {
+			font-weight: 200;
+		}
+
 	h2 {
 		font-size: 1.2em;
 	}
